@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/doug-cresswell/loupydeck/branch/main/graph/badge.svg?token=loupydeck_token_here)](https://codecov.io/gh/doug-cresswell/loupydeck)
 [![CI](https://github.com/doug-cresswell/loupydeck/actions/workflows/main.yml/badge.svg)](https://github.com/doug-cresswell/loupydeck/actions/workflows/main.yml)
 
-Awesome loupydeck created by doug-cresswell
+Awesome loupydeck created by doug-cresswell<br>
 A python project for interacting with [loupedeck](https://loupedeck.com/).
 
 <!--- ## Install it from PyPI
